@@ -4,7 +4,7 @@
 This project allows students to explore CRUD operations in backend development. Postman is used to test API endpoints connected to an SQL database.
 
 ## Author
-Tomas Nisay
+Eishley Jeremi Villaflor
 
 ## Tech Stack
 SQL
